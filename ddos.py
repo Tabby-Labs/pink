@@ -3,6 +3,7 @@ import threading as thread
 import sys as syss
 from queue import Queue
 import random
+import time
 
 def luncur(ip, port, bots, threads, duration):
     url = f"http://{str(ip)}:{int(port)}"
