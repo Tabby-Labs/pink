@@ -1,2 +1,2 @@
-# pink
-pinkdus
+# How to use
+Find out yourself ://
